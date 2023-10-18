@@ -1,6 +1,6 @@
 # Word Cloud Generator
 
-![Word Cloud Generator](insert_your_image_url_here)
+![Word Cloud Generator](https://github.com/Hanzla-Nawaz/Word-Cloud-Generator/blob/main/Cloud.PNG)
 
 ## Overview
 
