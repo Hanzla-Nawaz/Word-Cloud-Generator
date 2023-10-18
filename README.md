@@ -36,12 +36,12 @@ To use the Word Cloud Generator, follow these steps:
   pip install streamlit wordcloud pandas Pillow PyPDF2 regex
 
 ### Clone this repository:
-git clone https://github.com/your-username/word-cloud-generator.git
+git clone https://github.com/Hanzla-Nawaz/Word-Cloud-Generator.git
 
 ### Navigate to the project directory.
 cd word-cloud-generator/
 ### Run the Word Cloud Generator app:
-streamlit run word_cloud_generator.py
+streamlit run Word_Cloud_App.py
 
 ### Usage
 
